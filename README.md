@@ -11,6 +11,6 @@ For Example:
     * */
 
 These tags can be used to search a for a file.<br />
-If you search for "CRM2011 lookup" you would get the [JavaScript/SetLookup.js](https://github.com/RealDolmenCRM/Snippets/blob/fd4f0bb346fa020783ecab5dc62a4ada3aaa12a1/JavaScript/SetLookup.js) file:
+If you search for "CRM2011 lookup" you would get the [JavaScript/SetLookup.js](https://github.com/RealDolmenCRM/Snippets/blob/master/JavaScript/SetLookup.js) file:
 
 ![Search Example](/src/images/searchexample.png)
